@@ -10,8 +10,8 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/coingate/golang-crypto/ed25519blake2b"
-	"github.com/coingate/golang-crypto/ed25519blake2b/internal/edwards25519"
+	"github.com/coingate/go-crypto/ed25519blake2b"
+	"github.com/coingate/go-crypto/ed25519blake2b/internal/edwards25519"
 )
 
 type zeroReader struct{}

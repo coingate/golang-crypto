@@ -1,4 +1,4 @@
-module github.com/coingate/golang-crypto
+module github.com/coingate/go-crypto
 
 go 1.17
 
